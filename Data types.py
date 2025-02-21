@@ -41,3 +41,6 @@ print(d["age"])
 #set 
 s = {10,20,30,10}
 print(s,type(s))
+
+
+"this is commited line"
